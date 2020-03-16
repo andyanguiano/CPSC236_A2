@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4666C834-0060-0248-4C3C-1FB026B97FC3}</ProjectGuid>
+    <ProjectGuid>{277D9CFD-E0D4-587B-4B73-2C9329331A8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,42 +64,43 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\bullet_controller.cs" />
+    <Compile Include="Assets\Scripts\bullet_enemy_controller.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\Enemy_controller.cs" />
     <Compile Include="Assets\Scripts\Enemy_manager.cs" />
     <Compile Include="Assets\Scripts\Player_controller.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/Project02/CPSC236_A2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Users/andresanguiano/Downloads/2019.2.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

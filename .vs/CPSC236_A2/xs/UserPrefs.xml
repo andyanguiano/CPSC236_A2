@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{277D9CFD-E0D4-587B-4B73-2C9329331A8D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/bullet_controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy_manager.cs" Line="27" Column="31" />
+      <File FileName="Assets/Scripts/bullet_controller.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/Enemy_controller.cs" Line="35" Column="39" />
+      <File FileName="Assets/Scripts/bullet_enemy_controller.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CPSC236_A2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="bullet_controller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7025929d-7cc7-4443-803c-76e7a7c89613" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
