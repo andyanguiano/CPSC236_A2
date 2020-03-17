@@ -39,6 +39,7 @@ public class bullet_controller : MonoBehaviour
 
             scoreText.GetComponent<score_control>().score += 10;
             scoreText.GetComponent<score_control>().UpdateScore();
+            scoreText.GetComponent<score_control>().UpdateHighScore();
 
         }
     }
